@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373845290735",
+    "project_id": "koltininstagram",
+    "storage_bucket": "koltininstagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373845290735:android:c3256f947997520f1ef51a",
+        "android_client_info": {
+          "package_name": "com.mertkadir.kotlininstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373845290735-9af41lub45ig7fnr1v563ohddn3ctdco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQJ2hTxVz5HYSxhujs9_zjIoVonLP_gDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373845290735-9af41lub45ig7fnr1v563ohddn3ctdco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
